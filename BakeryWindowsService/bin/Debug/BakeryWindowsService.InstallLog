@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryWindowsService\bin\Debug\BakeryWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryWindowsService\bin\Debug\BakeryWindowsService.InstallLog
+   assemblypath = C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryWindowsService\bin\Debug\BakeryWindowsService.exe
+Installing service Bakery Window Service...
+Service Bakery Window Service has been successfully installed.
+Creating EventLog source Bakery Window Service in log Application...
+Committing assembly 'C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryWindowsService\bin\Debug\BakeryWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryWindowsService\bin\Debug\BakeryWindowsService.InstallLog
+   assemblypath = C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryWindowsService\bin\Debug\BakeryWindowsService.exe
