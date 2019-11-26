@@ -1,0 +1,5 @@
+C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryValueObject\bin\Debug\BakeryValueObject.dll
+C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryValueObject\bin\Debug\BakeryValueObject.pdb
+C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryValueObject\obj\Debug\BakeryValueObject.csproj.CoreCompileInputs.cache
+C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryValueObject\obj\Debug\BakeryValueObject.dll
+C:\Users\TaiVu\HSU\HK-1931\FrontEnd-C#\bakery\bakery\BakeryValueObject\obj\Debug\BakeryValueObject.pdb
